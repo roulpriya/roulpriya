@@ -4,4 +4,4 @@
 - 🤖 Building AgentForge
 - 👩🏻‍💻 GSOC 2025 Contributor
 - 📫 How to reach me: priyaroul99@gmail.com
-- 📎 p[riyaroul.com](https://priyaroul.com/) 
+- 📎 [priyaroul.com](https://priyaroul.com/) 
